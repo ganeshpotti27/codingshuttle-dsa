@@ -2,6 +2,10 @@ Coding Shuttle DSA Problems:
 
 Module-4: Recursion & Time Complexity
 
+Module-8: Stack
+
+Module-9: Queue
+
 Module-11: Binary Search 
 - On 1D Arrays
 - On Answers
