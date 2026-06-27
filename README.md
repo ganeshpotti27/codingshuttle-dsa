@@ -2,6 +2,9 @@ Coding Shuttle DSA Problems:
 
 Module-4: Recursion & Time Complexity
 
+Module-6: Arrays 
+- Two Pointers
+
 Module-8: Stack
 
 Module-9: Queue
