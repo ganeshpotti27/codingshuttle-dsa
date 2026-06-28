@@ -4,6 +4,7 @@ Module-4: Recursion & Time Complexity
 
 Module-6: Arrays 
 - Two Pointers
+- Intervals
 
 Module-8: Stack
 
